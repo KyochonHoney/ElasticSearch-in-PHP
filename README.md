@@ -11,8 +11,6 @@
 
     composer require elasticsearch/elasticsearch
 
-    
-    명령어로 다운로드
 
   3. DB접속 후 crowling 메서드에서 인덱싱시키기
 
