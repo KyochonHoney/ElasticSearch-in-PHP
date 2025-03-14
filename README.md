@@ -7,8 +7,11 @@
   1. https://www.elastic.co/ 에서 엘라스틱서치 라이브러리 다운로드
   2. terminal에서
   
-  >  composer require elasticsearch/elasticsearch
+  >
 
+    composer require elasticsearch/elasticsearch
+
+    
     명령어로 다운로드
 
   3. DB접속 후 crowling 메서드에서 인덱싱시키기
